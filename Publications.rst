@@ -3,6 +3,8 @@ Publications
 
 ----
 
+#.  Zhou B, Hatherly P, **Sun W**, 2017, Enhancing the detection of small coal structures by seismic diffraction imaging, International Journal of Coal Geology, 178: 1--12.
+#.  Guan X, Fu L Y, **Sun W**, 2017, Acoustic viscoelastic modeling by frequency-domain boundary element method, Earthquake Science, 30(2), 97--105.
 #.	**Weijia Sun** and B. L. N. Kennett, 2017, Mid--lithosphere discontinuities beneath the western and central North China Craton, Geophys Res Lett, 44, 1302–1310. (国际SCI)
 #.	Hu, J., L.--Y. Fu, **W. Sun**, and Y. Zhang, 2017, A study of the Coulomb stress and seismicity rate changes induced by the 2008 Mw 7.9 Wenchuan earthquake, J Asian Earth Sci. in press. (国际SCI)
 #.	**Weijia Sun** and B. L. N. Kennett, 2016, Uppermost mantle structure of the Australian continent from Pn traveltime tomography, Journal of Geophysical Research: solid earth, 121(3), 2004--2019. (国际SCI)
