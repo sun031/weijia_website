@@ -3,6 +3,8 @@ Publications
 
 ----
 
+#.  Jun Su, Li--Yun Fu, Wei Wei, **Weijia Sun**, Junhua Hu, 2017, On vertical resolution of seismic acquisition geometries in complex 3D media, Geophysics, in press.
+#.  Gaoxiang Chen, Li--Yun Fu, Wei Wei, **Weijia Sun**, 2017, Wavefield interpolation in 3D large-step Fourier wavefield extrapolation, Geophysical Prospecting, in press.
 #.  Zhou B, Hatherly P, **Sun W**, 2017, Enhancing the detection of small coal structures by seismic diffraction imaging, International Journal of Coal Geology, 178: 1--12.
 #.  Guan X, Fu L Y, **Sun W**, 2017, Acoustic viscoelastic modeling by frequency-domain boundary element method, Earthquake Science, 30(2), 97--105.
 #.	**Weijia Sun** and B. L. N. Kennett, 2017, Mid--lithosphere discontinuities beneath the western and central North China Craton, Geophys Res Lett, 44, 1302–1310. (国际SCI)
@@ -40,4 +42,4 @@ Publications
 	**Weijia Sun**
 	
 :Date:
-	**August 11, 2017**
+	**August 18, 2017**
