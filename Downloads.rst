@@ -17,7 +17,7 @@ Seismic Daylight Imaging
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Constructing P reflectivity from teleseismic and global earthquakes.
 	
-It would be available soon.
+Download from https://github.com/weijias-opensource/SDI.
 
 If you use the package, please cite the below references.
 
