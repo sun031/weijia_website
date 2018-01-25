@@ -21,8 +21,8 @@ Download from https://github.com/weijias-opensource/SDI.
 
 If you use the package, please cite the below references.
 
-#.	**Weijia Sun** and B. L. N. Kennett, 2017, Mid--lithosphere discontinuities beneath the western and central North China Craton, Geophys Res Lett, 44, 1302–1310. (国际SCI)
-#.	**Weijia Sun** and B. L. N. Kennett, 2016, Receiver structure from teleseisms: Autocorrelation and cross correlation, Geophys Res Lett, 43, 6234--6242. (国际SCI)
+#.	**Weijia Sun** and B. L. N. Kennett, 2017, Mid--lithosphere discontinuities beneath the western and central North China Craton, Geophys Res Lett, 44, 1302–1310.
+#.	**Weijia Sun** and B. L. N. Kennett, 2016, Receiver structure from teleseisms: Autocorrelation and cross correlation, Geophys Res Lett, 43, 6234--6242.
 
 	
 ----
