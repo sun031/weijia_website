@@ -3,13 +3,13 @@ Publications
 
 ----
 
-#.  **Weijia Sun**, Li-Yun Fu, Erdinc Saygin, Liang Zhao, 2018, Insights into layering in the cratonic lithosphere beneath Western Australia, Journal of Geophysical Research: Solid Earth, accepted.
+#.  **Weijia Sun**, Li--Yun Fu, Erdinc Saygin, Liang Zhao, 2018, Insights into layering in the cratonic lithosphere beneath Western Australia, Journal of Geophysical Research: Solid Earth, accepted.
 #.  Gaoxiang Chen, Li--Yun Fu, Wei Wei, **Weijia Sun**, 2017, Wavefield interpolation in 3D large-step Fourier wavefield extrapolation, Geophysical Prospecting, 66(2): 311--326.
 #.  Jun Su, Li--Yun Fu, Wei Wei, **Weijia Sun**, Junhua Hu, 2017, On vertical resolution of seismic acquisition geometries in complex 3D media, Geophysics, 82, P75--P87.
 #.  Zhou B, Hatherly P, **Sun W**, 2017, Enhancing the detection of small coal structures by seismic diffraction imaging, International Journal of Coal Geology, 178: 1--12.
 #.  Guan X, Fu L Y, **Sun W**, 2017, Acoustic viscoelastic modeling by frequency-domain boundary element method, Earthquake Science, 30(2), 97--105.
 #.	**Weijia Sun** and B. L. N. Kennett, 2017, Mid--lithosphere discontinuities beneath the western and central North China Craton, Geophys Res Lett, 44, 1302–1310. 
-#.	Hu, J., L.--Y. Fu, **W. Sun**, and Y. Zhang, 2017, A study of the Coulomb stress and seismicity rate changes induced by the 2008 Mw 7.9 Wenchuan earthquake, J Asian Earth Sci., 135, 303-319. 
+#.	Hu, J., L.--Y. Fu, **W. Sun**, and Y. Zhang, 2017, A study of the Coulomb stress and seismicity rate changes induced by the 2008 Mw 7.9 Wenchuan earthquake, J Asian Earth Sci., 135, 303--319. 
 #.	**Weijia Sun** and B. L. N. Kennett, 2016, Uppermost mantle structure of the Australian continent from Pn traveltime tomography, Journal of Geophysical Research: solid earth, 121(3), 2004--2019. 
 #.	**Weijia Sun** and B. L. N. Kennett, 2016, Uppermost mantle P wavespeed structure beneath eastern China and its surroundings, Tectonophysics, 683, 12--26. 
 #.	**Weijia Sun** and B. L. N. Kennett, 2016, Uppermost mantle structure beneath eastern China and its surroundings from Pn and Sn tomography, Geophys Res Lett, 43(7), 3143--3149. 
