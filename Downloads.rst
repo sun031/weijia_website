@@ -5,12 +5,10 @@ Downloads
 
 pyGmt
 ~~~~~
-A simple python wrapper for the Generic Mapping Tool (GMT). 
+A simple python wrapper for the `Generic Mapping Tool (GMT) <http://gmt.soest.hawaii.edu/>`_. 
 	
 Download from `GitHub <https://github.com/sun031/pyGmt>`_.
-	  
->>> pip install pyGmt
-	
+	  	
 ----
 
 Seismic Daylight Imaging
