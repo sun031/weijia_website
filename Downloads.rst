@@ -19,8 +19,8 @@ Download from https://github.com/weijias-opensource/SDI.
 
 If you use the package, please cite the below references.
 
-#.	**Weijia Sun** and B. L. N. Kennett, 2017, Mid--lithosphere discontinuities beneath the western and central North China Craton, Geophys Res Lett, 44, 1302–-1310.
 #.	**Weijia Sun** and B. L. N. Kennett, 2016, Receiver structure from teleseisms: Autocorrelation and cross correlation, Geophys Res Lett, 43, 6234--6242.
+#.	**Weijia Sun** and B. L. N. Kennett, 2017, Mid--lithosphere discontinuities beneath the western and central North China Craton, Geophys Res Lett, 44, 1302–-1310.
 
 	
 ----
@@ -28,7 +28,7 @@ If you use the package, please cite the below references.
 Uppermost mantle P velocity model across the Australian continent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Inverted 3-D Pn wavespeed beneath the Australian continent.
+Inverted 3--D Pn wavespeed beneath the Australian continent.
 
 If you use the model, please cite the below references.
 
@@ -40,7 +40,7 @@ If you use the model, please cite the below references.
 Uppermost mantle P and S velocity model of eastern China and its surroundings
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Inverted 3-D Pn and Sn wavespeed beneath eastern China and its surroundings.
+Inverted 3--D Pn and Sn wavespeed beneath eastern China and its surroundings.
 
 If you use the model, please cite the below references.
 
