@@ -4,11 +4,12 @@ Publications
 ----
 
 #.  **Weijia Sun**, Li--Yun Fu, Erdinc Saygin, Liang Zhao, 2018, Insights into layering in the cratonic lithosphere beneath Western Australia, Journal of Geophysical Research: Solid Earth, accepted.
-#.  Gaoxiang Chen, Li--Yun Fu, Wei Wei, **Weijia Sun**, 2017, Wavefield interpolation in 3D large-step Fourier wavefield extrapolation, Geophysical Prospecting, 66(2): 311--326.
+#.  Gaoxiang Chen, Li--Yun Fu, Wei Wei, **Weijia Sun**, 2018, Wavefield interpolation in 3D large-step Fourier wavefield extrapolation, Geophysical Prospecting, 66(2): 311--326.
+#.	**Weijia Sun** and B. L. N. Kennett, 2017, Mid--lithosphere discontinuities beneath the western and central North China Craton, Geophys Res Lett, 44, 1302–1310. 
+#.  Gaoxiang Chen, Li--Yun Fu, Kan Fu Chen, **Weijia Sun**, Wei Wei, 2017, Calculation of the seismic imaging complexity of complex geological structures, Journal of Seismic Exploration, 26(1):81--104.
 #.  Jun Su, Li--Yun Fu, Wei Wei, **Weijia Sun**, Junhua Hu, 2017, On vertical resolution of seismic acquisition geometries in complex 3D media, Geophysics, 82, P75--P87.
 #.  Zhou B, Hatherly P, **Sun W**, 2017, Enhancing the detection of small coal structures by seismic diffraction imaging, International Journal of Coal Geology, 178: 1--12.
 #.  Guan X, Fu L Y, **Sun W**, 2017, Acoustic viscoelastic modeling by frequency-domain boundary element method, Earthquake Science, 30(2), 97--105.
-#.	**Weijia Sun** and B. L. N. Kennett, 2017, Mid--lithosphere discontinuities beneath the western and central North China Craton, Geophys Res Lett, 44, 1302–1310. 
 #.	Hu, J., L.--Y. Fu, **W. Sun**, and Y. Zhang, 2017, A study of the Coulomb stress and seismicity rate changes induced by the 2008 Mw 7.9 Wenchuan earthquake, J Asian Earth Sci., 135, 303--319. 
 #.	**Weijia Sun** and B. L. N. Kennett, 2016, Uppermost mantle structure of the Australian continent from Pn traveltime tomography, Journal of Geophysical Research: solid earth, 121(3), 2004--2019. 
 #.	**Weijia Sun** and B. L. N. Kennett, 2016, Uppermost mantle P wavespeed structure beneath eastern China and its surroundings, Tectonophysics, 683, 12--26. 
@@ -33,7 +34,6 @@ Publications
 #.	陶毅, 符力耘, **孙伟家**, 孙秋霞, 2010, 地震波干涉法研究进展综述: 地球物理学进展, 25(5), 1775--1784.
 #.	**孙伟家**, 符力耘, 姚振兴, 2009, 基于耦合反射/透射系数单程波传播算子的地震波模拟研究: 地球物理学报, 52(10), 2558--2565. 
 #.	**Weijia Sun**, Li--Yun Fu, and Ru--Shan Wu, 2008, 2.5D SH wave propagation in heterogeneous crustal wave guides using the phase screen method: Bulletin of the Seismological Society of America, 98(5), 2391–2401. 
-#.	马义忠, 魏 伟, **孙伟家**, 符力耘. 南阳凹陷高精度三维地震采集观测系统设计: 石油物探, 2008, 47(5): 498--504.
 #.	**孙伟家**, 符力耘, 碗学检, 2007, 基于相位编码的地震照明度分析: 石油地球物理勘探, 42(5), 539--543.
 #.	符力耘, **孙伟家**, 李东平, 2007, 退化的Fourier 偏移算子及其在复杂断块成像中的应用: 地球物理学报, 50(4), 1241--1250. 
 
@@ -43,4 +43,4 @@ Publications
 	**Weijia Sun**
 	
 :Date:
-	**Jan 25, 2018**
+	**Feb 11, 2018**
